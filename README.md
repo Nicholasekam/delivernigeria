@@ -1,32 +1,52 @@
-# Deliver Nigeria
+DELIVER Nigeria App
+Product Case Study
 
-Deliver Nigeria is a nutrition and food systems initiative focused on improving access to nutritious crops, strengthening community awareness, and supporting adoption of biofortified foods in Nigeria.
+DELIVER Nigeria App is a digital marketplace and analytics platform developed for the Global Alliance for Improved Nutrition to address a major program challenge: limited household-level visibility into vegetable purchase and consumption behavior, combined with fragmented market linkages that constrained targeting, outreach, and behavior-change interventions.
 
-## Project Overview
+Problem
 
-The project supports household-level nutrition awareness, retailer engagement, field coordination, and market linkages for nutritious crops such as Vitamin A maize, Vitamin A cassava, and Orange-Fleshed Sweet Potato.
+Program teams needed timely, reliable, and actionable data on household purchasing behavior, consumption frequency, retailer activity, and geographic demand gaps. Before the platform, decision-making relied heavily on slow ad-hoc surveys, fragmented field reports, and limited visibility into market activity.
 
-## Website
+Product Solution
 
-http://www.deliverniger.org
+I led the development and launch of an end-to-end digital marketplace that combined household and retailer onboarding, transaction capture, centralized data modeling, and analytics dashboards.
 
-## Key Focus Areas
+The platform enabled field officers and program managers to understand consumption patterns, monitor purchase volumes, identify geographic gaps, and use real transaction data to guide field-level decisions.
 
-- Nutrition-sensitive agriculture
-- Biofortified crop adoption
-- Community engagement
-- Retailer and household education
-- Food systems strengthening
-- Field data and monitoring
+My Role
 
-## My Role
+As Product Lead, I translated the program challenge into a product brief, recruited and coordinated a cross-functional team across engineering, data, field operations, and partners, and managed the product from concept to launch.
 
-I supported project coordination, field implementation, stakeholder engagement, reporting, and translation of field insights into actionable project learning.
+I designed household and retailer onboarding flows, defined analytics requirements, supported dashboard development, and embedded platform insights into program workflows.
 
-## Project Value
+Key Product Features
+Household onboarding flow
+Retailer onboarding flow
+Digital marketplace transactions
+Centralized transaction data model
+Consumption frequency tracking
+Purchase volume analytics
+Geographic gap analysis
+Field officer dashboards
+Cohort analysis for program targeting
+Operational reporting for program managers
+Product Impact
 
-Deliver Nigeria contributes to improved nutrition outcomes by helping households, retailers, and communities understand, access, and adopt more nutritious food options.
+The platform became a primary source of consumption metrics for field teams and program managers. It reduced reliance on slow manual surveys, improved the precision of field interventions, supported supply reallocation, and enabled outreach strategies based on actual user behavior.
 
-## Status
+Beyond immediate operational gains, the product increased stakeholder confidence in program monitoring data and created a reusable analytics foundation for scale-up and future investment.
 
-Implemented 
+Skills Demonstrated
+Product strategy
+Marketplace design
+Analytics product management
+Field operations digitization
+User onboarding design
+Data model definition
+Dashboard planning
+Cross-functional delivery
+Stakeholder management
+Impact measurement
+Website
+
+https://delivernigeria.org/
